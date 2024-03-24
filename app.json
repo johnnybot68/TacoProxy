@@ -1,7 +1,7 @@
 {
-    "name": "Taco Proxy",
-    "description": "A node.js web proxy featuring URL encoding, and amazing compatablity!",
+    "name": "Yutugobia Unblocker",
+    "description": "A frontend node.js" proxy using "TacoProxy", you can deploy and use for school!,
     "repository": "https://github.com/Tacosheel/TacoProxy",
     "logo": "https://avatars1.githubusercontent.com/u/47227492?s=200&v=4",
-    "keywords": ["proxy", "unblocker", "games"]
+    "keywords": ["proxy", "unblocker", "bypasser", "restrictions", "proxies"]
 }
